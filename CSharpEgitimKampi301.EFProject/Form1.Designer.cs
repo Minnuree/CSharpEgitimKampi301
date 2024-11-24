@@ -69,12 +69,15 @@
             // 
             // btnList
             // 
+            this.btnList.BackColor = System.Drawing.Color.SlateBlue;
+            this.btnList.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnList.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnList.Location = new System.Drawing.Point(106, 150);
             this.btnList.Name = "btnList";
             this.btnList.Size = new System.Drawing.Size(138, 32);
             this.btnList.TabIndex = 3;
             this.btnList.Text = "Listele";
-            this.btnList.UseVisualStyleBackColor = true;
+            this.btnList.UseVisualStyleBackColor = false;
             this.btnList.Click += new System.EventHandler(this.btnList_Click);
             // 
             // txtName
@@ -111,42 +114,54 @@
             // 
             // btnGetByID
             // 
+            this.btnGetByID.BackColor = System.Drawing.Color.SlateBlue;
+            this.btnGetByID.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnGetByID.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnGetByID.Location = new System.Drawing.Point(106, 354);
             this.btnGetByID.Name = "btnGetByID";
             this.btnGetByID.Size = new System.Drawing.Size(138, 32);
             this.btnGetByID.TabIndex = 8;
             this.btnGetByID.Text = "Id\'ye Göre Getir";
-            this.btnGetByID.UseVisualStyleBackColor = true;
+            this.btnGetByID.UseVisualStyleBackColor = false;
             this.btnGetByID.Click += new System.EventHandler(this.btnGetByID_Click);
             // 
             // btnUpdate
             // 
+            this.btnUpdate.BackColor = System.Drawing.Color.SlateBlue;
+            this.btnUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnUpdate.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnUpdate.Location = new System.Drawing.Point(106, 303);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(138, 32);
             this.btnUpdate.TabIndex = 9;
             this.btnUpdate.Text = "Güncelle";
-            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.UseVisualStyleBackColor = false;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnDelete
             // 
+            this.btnDelete.BackColor = System.Drawing.Color.SlateBlue;
+            this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnDelete.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnDelete.Location = new System.Drawing.Point(106, 249);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(138, 32);
             this.btnDelete.TabIndex = 10;
             this.btnDelete.Text = "Sil";
-            this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.UseVisualStyleBackColor = false;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnAdd
             // 
+            this.btnAdd.BackColor = System.Drawing.Color.SlateBlue;
+            this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnAdd.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnAdd.Location = new System.Drawing.Point(106, 198);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(138, 32);
             this.btnAdd.TabIndex = 11;
             this.btnAdd.Text = "Ekle";
-            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.UseVisualStyleBackColor = false;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // Form1
