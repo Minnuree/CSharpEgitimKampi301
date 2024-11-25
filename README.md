@@ -1,0 +1,3 @@
+# :boom:C# EĞİTİM KAMPI 301 İSTATİSTİKLER :sunflower:
+### :stars:C# Eğitim kampı çerçevesinde gerçekleştirmiş olduğumuz entity framework metotlarını kullandık. Linq sorgularını kullanarak veritabanından istediğimiz bilgileri çektik ve labellarda gösterdik. Where(belirli bir koşulu sağlayan veriler), Select(belirli bir özellikleri istenen öğeler,örneğin belli bir name,city vb.), Count(sayısı), Sum(Toplamı), Avarage(ortalaması),Max(en büyük değer),FirstOrDefault(tek bir değer döndüreceksek),ToString(gelen değeri stringe dönüştürmek) metotlarını kullandık. :sun_with_face::new_moon_with_face:
+![FrmStatistics](https://github.com/user-attachments/assets/67fe8eb8-57e3-4dba-b426-8fe98d6c7307)
